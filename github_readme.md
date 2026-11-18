@@ -10,7 +10,7 @@ AWS環境構築および **CloudFormation (IaC)** を中心としたクラウド
 
 | Category | Technologies & Tools | 
 | ----- | ----- | 
-| **Cloud (AWS)** | VPC, EC2, ALB, RDS, S3, IAM, CloudFormation, Route 53, ACM | 
+| **Cloud (AWS)** | VPC, EC2, ALB, RDS,IAM, CloudFormation, ACM | 
 | **IaC & Quality** | AWS CloudFormation (YAML/JSON), `cfn-lint` (Static Analysis) | 
 | **OS & Network** | Linux (Amazon Linux), macOS (zsh), SSH, TCP/IP, DNS, SSL/TLS, Firewall | 
 | **Dev & Scripting** | Git, GitHub, VS Code, Python (Basic / paiza Rank D) | 
